@@ -1,0 +1,4 @@
+*$*.scala
+*$*.class
+.DS_Store
+target/
